@@ -49,6 +49,7 @@ nav {
 }
 .nav-links a {
     color: white;
+    font-size: 18px;
     font-weight: 700;
     text-decoration: none;
     padding: 1rem 0.5rem;
@@ -186,3 +187,4 @@ p{
     text-align: center;
 
 }
+
